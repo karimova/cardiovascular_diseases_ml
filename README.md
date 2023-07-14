@@ -1,5 +1,5 @@
 # Cardiovascular Diseases Prediction
-![p-6](img/portfolio/p-6.png)
+![p-6](p-6.png)
 
 ## Problem Statement
 Cardiovascular diseases are a major global cause of death, emphasizing the need to understand their causes and develop an effective system for early detection of heart attacks. The goal of this project is to predict the risk of heart attacks using machine learning models and explore the factors that contribute to cardiovascular health.
